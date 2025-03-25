@@ -34,7 +34,7 @@ export default function Home() {
         <div className="absolute inset-0 w-full sm:my-20 sm:pt-1 pt-12 h-full ">
           <img
             className="w-96"
-            src="https://i.ibb.co/5BCcDYB/Remote2.png"
+            src="https://img.freepik.com/free-vector/gradient-beautiful-landscape_23-2149122377.jpg?t=st=1742893493~exp=1742897093~hmac=8ddea0d12e048e05e6c6a9c78ed041dce2f6a3e1c1dc94dcf02324ba204919b7&w=2000"
             alt="image1"
           />
         </div>
@@ -43,7 +43,7 @@ export default function Home() {
       <div className="grid  place-items-center sm:mt-20">
         <img
           className="sm:w-96 w-48"
-          src="https://i.ibb.co/2M7rtLk/Remote1.png"
+          src="https://img.freepik.com/free-vector/gradient-beautiful-landscape_23-2149122377.jpg?t=st=1742893493~exp=1742897093~hmac=8ddea0d12e048e05e6c6a9c78ed041dce2f6a3e1c1dc94dcf02324ba204919b7&w=2000"
           alt="image2"
         />
       </div>
