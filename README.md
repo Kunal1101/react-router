@@ -20,7 +20,7 @@ This is a React + Vite project that demonstrates the use of **React Router** for
 
 ```sh
 git clone https://github.com/Kunal1101/react-router
-cd your-repo
+cd react-router
 ```
 
 ### 2️⃣ Install Dependencies
